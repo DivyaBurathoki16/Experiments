@@ -1,0 +1,1 @@
+This website is created to cast vote online , for now it features Home ,Registeration , login page , About us and Contact . It is a responsive website that can work on any screen i.e mobile ,laptops, tab etc.
